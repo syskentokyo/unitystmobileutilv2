@@ -36,6 +36,19 @@ namespace SyskenTLib.STMobileUtilV2.ConnectToAndroid.Editor
             
             
 #if UNITY_ANDROID
+
+            if (string.IsNullOrEmpty(androidAdbPath) == true)
+            {
+                //パス設定
+                STAndroidADBManager androidADBManager = new STAndroidADBManager();
+                this.SetAndroidSDKPath( androidADBManager.GetADBPath());
+            }
+            
+            
+            
+            
+            
+            
             EditorGUILayout.BeginVertical("Box");
             EditorGUILayout.LabelField("Android SDK ADB Path");
             EditorGUILayout.TextArea(androidAdbPath);
