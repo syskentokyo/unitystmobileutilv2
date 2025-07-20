@@ -1,0 +1,19 @@
+{
+    "name": "STMobileUtilV2_MyAppSettingApp",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.MyAppSettingApp",
+    "references": [],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "tvOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
