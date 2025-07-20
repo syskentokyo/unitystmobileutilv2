@@ -1,0 +1,16 @@
+{
+    "name": "STMobileUtilV2_ConnectToAndroid",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.ConnectToAndroid.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
