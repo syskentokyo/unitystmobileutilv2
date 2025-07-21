@@ -20,7 +20,7 @@ namespace SyskenTLib.STMobileUtilV2.MyAppSettingApp.Internal
             UnityEngine.Debug.Log("OpenSettingApp");
                 
 #elif UNITY_IOS
-            SyskenTlibOpenMySettingApp();
+            SyskenTlibOpenMyAppSettingApp();
 
 #elif UNITY_ANDROID
                 OpenSettingAppOnAndroid();
