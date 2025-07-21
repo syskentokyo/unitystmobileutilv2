@@ -1,0 +1,18 @@
+{
+    "name": "STMobileUtilV2_CameraLight",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.CameraLight",
+    "references": [],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
