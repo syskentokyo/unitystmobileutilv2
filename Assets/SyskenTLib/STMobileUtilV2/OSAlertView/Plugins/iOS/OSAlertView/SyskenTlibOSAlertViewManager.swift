@@ -19,7 +19,7 @@ class SyskenTlibOSNativeUIManager{
                                                              , functionName: "OnTouchedOSAlertViewButton"
                                                              , message: "Cancel")
                 
-            }))
+            }));
         }
         
         
@@ -30,7 +30,7 @@ class SyskenTlibOSNativeUIManager{
                                                              , functionName: "OnTouchedOSAlertViewButton"
                                                              , message: "OK")
                 
-            }))
+            }));
         }
         
         rootViewController?.present(alertController, animated: true,completion: {

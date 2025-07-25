@@ -10,7 +10,7 @@ public  func showAlert(title:UnsafePointer<CChar>,subTitle:UnsafePointer<CChar>,
             
     
     
-    let osNativeUIManager = SyskenTlibOSAlertViewManager()
+    let osNativeUIManager = SyskenTlibOSNativeUIManager()
     
     osNativeUIManager.showAlert(title: titleTxt,subTitle: subTitleTxt,okButtonName:okButtonNameTxt,cancelButtonName:cancelButtonNameTxt)
 
