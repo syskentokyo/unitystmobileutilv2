@@ -1,0 +1,22 @@
+{
+    "name": "SyskenTLibSTMobileUtilV2Demo",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.Demo",
+    "references": [
+        "GUID:b3b8a7429f9fb4640a2a68141c775f68",
+        "GUID:7772405ca86b4425792970c237e0d460",
+        "GUID:350748919454a45208a948fee47ee863"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

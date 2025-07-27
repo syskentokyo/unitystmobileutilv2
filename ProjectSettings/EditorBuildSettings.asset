@@ -8,8 +8,8 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/SyskenTLib/UtilForiOSDemo/0_CameraLightDemo.unity
+  - enabled: 0
+    path: Assets/SyskenTLib/STMobileUtilV2Demo/0_CameraLightDemo.unity
     guid: ab4bee405cbf14229ab00b3865747b1e
   - enabled: 0
     path: Assets/SyskenTLib/UtilForiOSDemo/KeyChainDemo.unity
@@ -18,13 +18,13 @@ EditorBuildSettings:
     path: Assets/SyskenTLib/UtilForiOSDemo/NoSaveiCloudDemo.unity
     guid: 706ccd11641ba4c35a145c70046dacac
   - enabled: 0
-    path: Assets/SyskenTLib/UtilForiOSDemo/OpenMySettingAppDemo.unity
+    path: Assets/SyskenTLib/STMobileUtilV2Demo/OpenMySettingAppDemo.unity
     guid: 5b1d262abf486441eb048f6fa5d3e8c3
-  - enabled: 0
-    path: Assets/SyskenTLib/UtilForiOSDemo/OSNativeUIDemo.unity
+  - enabled: 1
+    path: Assets/SyskenTLib/STMobileUtilV2Demo/OSNativeUIDemo.unity
     guid: 99f313fb009be458e87d05e637b0de0a
   - enabled: 0
-    path: Assets/SyskenTLib/UtilForiOSDemo/VibrateDemo.unity
+    path: Assets/SyskenTLib/STMobileUtilV2Demo/VibrateDemo.unity
     guid: 087df2bc0199d4b1c8e615db42d4071a
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
