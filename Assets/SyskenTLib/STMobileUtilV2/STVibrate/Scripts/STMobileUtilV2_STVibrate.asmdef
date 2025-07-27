@@ -1,0 +1,19 @@
+{
+    "name": "STMobileUtilV2_STVibrate",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.STVibrate",
+    "references": [],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "tvOS"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
