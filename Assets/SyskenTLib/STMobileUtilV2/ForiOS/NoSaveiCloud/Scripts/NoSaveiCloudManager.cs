@@ -12,6 +12,27 @@ namespace SyskenTLib.STMobileUtilV2.ForiOS.NoSaveiCloud
     public class NoSaveiCloudManager 
     {
 
+        #region よくあるフォルダ
+
+        
+        public void SetPersistentDataPathNoSaveToiCloud()
+        {
+
+            SetNoSaveToiCloud(Application.persistentDataPath);
+
+        }
+        
+        public void SetDownloadDataPathNoSaveToiCloud(string dirPath)
+        {
+
+            SetNoSaveToiCloud(Application.persistentDataPath+"/"+"downloadData");
+
+        }
+
+
+        
+
+        #endregion        
 
         public void SetNoSaveToiCloud(string dirPath){
             
