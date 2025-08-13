@@ -1,0 +1,16 @@
+{
+    "name": "STMobileUtilV2_ForiOS_InfoPlistConfigEditor",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.ForiOS.InfoPlistConfig.Editor",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
