@@ -1,6 +1,6 @@
 {
-    "name": "STMobileUtilV2_ForiOS_CustomFirstSplash",
-    "rootNamespace": "SyskenTLib.STMobileUtilV2.ForiOS.CustomFirstSplash",
+    "name": "STMobileUtilV2_ForiOS_NoSaveiCloud",
+    "rootNamespace": "SyskenTLib.STMobileUtilV2.ForiOS.NoSaveiCloud",
     "references": [],
     "includePlatforms": [
         "Editor",
